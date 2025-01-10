@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Thamsanqa Qaba
+- **Date:2025,Jan 10
+- **Current Role/Position:Unemployed
+- **Field of Interest:App Development, and Gaming.
 
 ### Part 1: Self-Assessment Reflection
 
