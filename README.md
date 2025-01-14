@@ -24,11 +24,18 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
+    CSS: semi-proficient.
+    HTM: semi-proficient. 
+    Javascript: Needs a lot of work.
+    Labelling: requires some work. 
+
     - List your current skills and areas of expertise.
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
-    
+I am interested in developing my applications and small little games to play on the phone. 
+I am interested in app development and gaming when it comes to this field.
+The values that are important to me are honesty, transparency, and grace.
+
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
 
